@@ -1,8 +1,8 @@
 {
-  "name": "wri",
+  "name": "pencilui",
   "version": "0.0.1",
   "license": "MIT",
-  "repository": "github:miguelgargallo/wri",
+  "repository": "github:miguelgargallo/pencilui",
   "orgin": "github:huntabyte/bits-ui",
   "scripts": {
     "dev": "concurrently \"pnpm:dev:content\" \"pnpm:dev:svelte\"",
